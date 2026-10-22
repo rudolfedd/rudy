@@ -1,0 +1,11 @@
+# Build artifacts
+build/
+*.o
+*.obj
+rudy
+rudy.exe
+
+# Editor / OS noise
+*.swp
+*~
+.DS_Store
